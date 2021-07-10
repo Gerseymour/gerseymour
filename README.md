@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm George, a full-stack developer in London 
 
-I'm a full-stack developer at [boGo](https://github.com/jakewmiles/bogo-client) using graphQL with React Native, I am enthusiastic about mobile development and eagar to make life easier one line of code at a time. In the past I was an English teacher in China so I'm especcally passionate about learning and teaching languages, both world and programming. 
+I'm a full-stack developer at [boGo](https://github.com/jakewmiles/bogo-client) using graphQL with React Native, I am enthusiastic about mobile development and eagar to make life easier one line of code at a time. In the past I was an English teacher in China so I'm especially passionate about learning and teaching languages, both world and programming. 
 
 Outside of coding, I enjoy tabletop gaming and board games 🎲 Hiking and exploring beautiful landscapes 🏞 and trying out all the different cuisines the world has to offer 🍴
 
