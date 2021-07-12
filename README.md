@@ -6,7 +6,7 @@ Outside of coding, I enjoy tabletop gaming and board games 🎲 Hiking and explo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Foodease](https://github.com/Gerseymour/bogo-client.git) using TypeScript with React Native 
+- 🔭 I’m currently working on [FoodEase](https://github.com/Gerseymour/bogo-client.git) using TypeScript with React Native 
 - 🌱 I’m currently learning React on [FrontendMasters](https://frontendmasters.com/) with [@BrianHolt](https://github.com/btholt)
 - 💬 Ask me about graphQL, I'm always excited to talk about interesting technologies over great coffee ☕ 
 - 📫 How to reach me: george.anthony.seymour@gmail.com
